@@ -10899,3 +10899,14 @@ a.text-dark:focus {
   }
 }
 
+.navbar {
+  position: relative;
+}
+
+.logoNav {
+  width: 38px;
+  position: absolute;
+  left: 45%;
+  display: block;
+}
+
