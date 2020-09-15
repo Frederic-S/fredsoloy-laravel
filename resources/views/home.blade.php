@@ -1,5 +1,8 @@
 @extends('layouts/app')
 
 @section('content')
-    <h1>Home page</h1>
+    {{-- Full width column --}}
+    <div class="flex mb-4">
+        <div class="w-full bg-gray-500 h-12"></div>
+    {{-- </div> end flex mb-4 --}}
 @endsection
